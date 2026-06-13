@@ -1,5 +1,5 @@
 # Part 2 — RFM Segmentation & Retention Strategy
-**Student:** Subodh Raut
+Subodh Raut
 
 ## How to Run
 ```bash

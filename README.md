@@ -1,22 +1,22 @@
 # Part 2 — RFM Segmentation \& Retention Strategy
 
-**Student:** Subodh Raut
+Subodh Raut
 
 ## How to Run
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook rfm\_segmentation.ipynb
+jupyter notebook rfm\\\\\\\_segmentation.ipynb
 ```
 
 Kernel → Restart \& Run All
 
 ## Outputs
 
-* `rfm\_segmentation.ipynb` — RFM scoring, 5 segments, 3 charts
+* `rfm\\\\\\\_segmentation.ipynb` — RFM scoring, 5 segments, 3 charts
 * `segments.csv` — 2,400 customers with RFM + segment labels
-* `retention\_strategy.md`
-* `manual\_review\_cases.md` — 10 real customer cases
+* `retention\\\\\\\_strategy.md`
+* `manual\\\\\\\_review\\\\\\\_cases.md` — 10 real customer cases
 
 ## Segments (Real Data)
 
